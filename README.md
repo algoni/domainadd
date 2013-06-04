@@ -1,6 +1,6 @@
 # domainadd.sh
 
-Easily add a domain into your /etc/hosts file, nice for development with vhosts.
+Easily add a domain into your /etc/hosts file, nice for development with vhosts. All credit goes to artheus for his answer on [Ubuntu forums](http://ubuntuforums.org/showthread.php?t=1419032).
 
 ## Installation
 
