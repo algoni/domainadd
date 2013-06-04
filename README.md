@@ -6,7 +6,7 @@ Easily add a domain into your /etc/hosts file, nice for development with vhosts.
 
 1. Clone the repo somewhere
 2. Add that directory to your path
-3. Make the script executable: ````chmod +x domainadd"````
+3. Make the script executable: ````chmod +x domainadd````
 
 ## Usage
 
